@@ -1,0 +1,57 @@
+/*Made by Romuald*/
+
+/*fond blanc et bordure page*/
+body{
+    background-image: url(https://zupimages.net/up/21/01/roms.jpg);
+    border: 6px solid rgb(85, 124, 250);
+    }
+/*paragraphes*/
+p{
+    font-family: Arial;
+    text-align: left;
+    color:rgb(78, 87, 219);
+}
+/*marges*/
+.page{
+    margin: 10px;
+    padding: 5px;
+}
+/*informations personelles*/
+.info{
+    font-size: 22px;
+    font-family: Roboto, 'Open Sans';
+    color:rgb(54, 141, 248);
+}
+.info:hover{
+    color:rgb(150, 227, 248);
+}
+/*photo*/
+.photo img {
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+/*formations*/
+.formations h1{
+    font-size: 20px;
+    border-bottom:rgb(3, 3, 51) solid 7px;
+    color:navy;
+}/*expériences professionelles*/
+.expe h2{
+    font-size: 20px;
+    border-bottom: rgb(3, 3, 51) solid 7px;
+    color:navy;
+}
+/*langues et compétences*/
+.language h3{
+    font-size:20px;
+    color: navy;
+    border-bottom: rgb(3, 3, 51) solid 7px;
+}
+/*loisirs et centres d'intérêts*/
+.hobbies h4{
+    font-size:20px;
+    color:navy;
+    border-bottom: rgb(3, 3, 51) solid 7px;
+}
+
